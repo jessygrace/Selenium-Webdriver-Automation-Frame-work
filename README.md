@@ -127,6 +127,7 @@
 	<li><strong>Configuration File/Constants/ Atmosphere Options:</strong> The file save the info about the program URL, browser particular advice etc. It's usually the advice that remains static through the framework.</li>
 	<li><strong>Generics/ Software logics/ Visitors:</strong> These will be the types that save the functions which may be generally used throughout the whole framework.</li>
 	<li style="text-align: left;"><strong>Assemble applications and Continuous Integration:</strong> These will be the instruments that helps to the frameworks abilities to create evaluation reports, e-mail notifications and logging info.
-Decision</li>
+
+<p><strong>Decision</strong></li></p>
 </ul>
 <p style="text-align: left;">The theoretical models exemplified above are the most used frameworks for Selenium Webdriver Tutorial utilized by the screening fraternity. There are many other frameworks additionally in the area. For all the additional tutorials we'd base on the Data-Driven Testing Framework for Selenium Webdriver Tutorial Online.</p>
