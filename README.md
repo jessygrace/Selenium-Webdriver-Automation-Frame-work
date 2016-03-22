@@ -1,5 +1,5 @@
 <p style="text-align: left;"><span style="text-decoration: underline;"><strong>Most Well-Known Test Automation Framework For Selenium Webdriver Tutorial</strong></span></p>
-<p style="text-align: left;">In the past few Selenium Webdriver tutorials, we mentioned about different generally and popularly employed commands in Selenium WebDriver Training Online, managing net components like Internet Tables, Frames and managing exceptions in Selenium Webdriver Training scripts.</p>
+<p style="text-align: left;">In the past few Selenium Webdriver tutorials, we mentioned about different generally and popularly employed commands in Selenium WebDriver Training Online,<a href="http://seleniumwebdrivertrainings.com/selenium-webdriver-training-tutorials-online/" target="_blank"> managing net components</a> like Internet Tables, Frames and managing exceptions in Selenium Webdriver Training scripts.</p>
 <p style="text-align: left;">We mentioned each of the commands with sample code snippets and illustrations in order to allow you to get capable of using all these commands efficiently whenever you're struck with similar scenarios. Amongst the orders we mentioned in the last tutorial, few of these owe extreme significance.</p>
 <p style="text-align: left;">As we move forward in the Selenium Webdriver Tutorial Online string, we'd concentrate our emphasis towards Automation Framework development in another few coming tutorials. We'd also reveal different facets of an Automation framework, kinds of Automation frameworks, advantages of utilizing a framework as well as the fundamental elements that makes up an Automation framework.</p>
 <p style="text-align: left;"><strong>What's Theoretical Model?</strong></p>
@@ -127,7 +127,6 @@
 	<li><strong>Configuration File/Constants/ Atmosphere Options:</strong> The file save the info about the program URL, browser particular advice etc. It's usually the advice that remains static through the framework.</li>
 	<li><strong>Generics/ Software logics/ Visitors:</strong> These will be the types that save the functions which may be generally used throughout the whole framework.</li>
 	<li style="text-align: left;"><strong>Assemble applications and Continuous Integration:</strong> These will be the instruments that helps to the frameworks abilities to create evaluation reports, e-mail notifications and logging info.
-<span style="text-decoration: underline;"><strong>
-<p>Decision</strong></span></li></p>
+Decision</li>
 </ul>
 <p style="text-align: left;">The theoretical models exemplified above are the most used frameworks for Selenium Webdriver Tutorial utilized by the screening fraternity. There are many other frameworks additionally in the area. For all the additional tutorials we'd base on the Data-Driven Testing Framework for Selenium Webdriver Tutorial Online.</p>
